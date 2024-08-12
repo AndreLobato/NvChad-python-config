@@ -1,3 +1,6 @@
+# Old, to be updated!
+See [issues](https://github.com/dobval/NvChad-python-config/issues)
+
 # NvChad-python-config
 Custom config of Nvim (NvChad) as a Python IDE.
 Inspired from [Dreams of Code](https://github.com/dreamsofcode-io/neovim-python)
