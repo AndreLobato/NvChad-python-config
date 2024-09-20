@@ -12,6 +12,9 @@ Inspired from [Dreams of Code](https://github.com/dreamsofcode-io/neovim-python)
 - MyPy - Static Type Checker
 - DebugPy - Debugging
 
+# Pre-requisites
+- [NvChad](https://nvchad.com/docs/quickstart/install/#install) (Check if Nvim is up to date!)
+  
 # Installation
 ```bash
 git clone https://github.com/dobval/NvChad-python-config.git ~/.config/nvim/lua/custom
