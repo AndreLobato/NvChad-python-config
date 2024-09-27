@@ -29,8 +29,8 @@ nvim/ <br>
     ```
     
   </details>
-  - Git
-  - npm (for installing Pyright)
+  - Git <br>
+  - npm (for installing Pyright) <br>
   - Python (of course)
   
 ## Installation
