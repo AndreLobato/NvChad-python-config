@@ -35,7 +35,7 @@ nvim/ <br>
   
 ## Installation
 ```bash
-git clone https://github.com/dobval/NvChad-python-config.git ~/.config/nvim
+git clone https://github.com/dobval/NvChad-python-config.git ~/.config/nvim/lua
 ```
 Python tools
 ```bash
